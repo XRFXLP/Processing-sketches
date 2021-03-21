@@ -1,3 +1,6 @@
+'''
+This little script loads two images from memory and blend them 
+'''
 def co(Q):
     return red(Q), green(Q), blue(Q)
 def norma(a,b):
